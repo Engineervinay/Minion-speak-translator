@@ -5,6 +5,7 @@ body{
 
 #txt-Output{
     border: 1px solid red;
+    height: 10vh;
 
 }
 #txt-Input{
