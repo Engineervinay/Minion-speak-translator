@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-color: rgb(17, 5, 27);
+}
+
+#txt-Output{
+    border: 1px solid red;
+
+}
+#txt-Input{
+    max-width: 500px;
+    margin-left: 1rem;
+    margin-right:1rem;
+    padding:2rem;
+    
+}
